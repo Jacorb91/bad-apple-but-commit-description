@@ -1,3 +1,0 @@
-mkdir bad-apple-but-commit-description
-cd bad-apple-but-commit-description/
-git init
